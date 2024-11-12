@@ -50,6 +50,11 @@ We developed a prototype of the High-Tech Hydration Vest that includes:
 - **Comfortable Design**: Made from lightweight, breathable materials for optimal comfort.
 
 ---
+## Installation
+clone this repository in your device
+```bash
+https://github.com/nyagooh/user-research.git
+```
 
 ## Contribution Guidelines
 
